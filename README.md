@@ -47,6 +47,10 @@ Tech Consultant specializing in Emerging Technologies. Passionate about bridging
 
 <img align="left" alt="Drizzle" width="30px" style="padding-right:10px;" src="/drizzle-logomark.svg" />
 
+<img align="left" alt="Drizzle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+
+<img align="left" alt="Drizzle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+
 <br/>
 <br>
 <br/>
