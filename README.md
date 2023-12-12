@@ -29,9 +29,9 @@ Tech Consultant specializing in Emerging Technologies. Passionate about bridging
 
 ### ⏭️ Want to learn next
 
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" < src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" < src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="/hardhat-logo-dark.svg" />
 
