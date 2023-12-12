@@ -26,26 +26,26 @@ Tech Consultant specializing in Emerging Technologies. Passionate about bridging
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
 <br/>
+<br/>
+<br/>
 
 ### ⏭️ Want to learn next
 
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="/hardhat-logo-dark.svg" />
+<img align="left" alt="StyleX" width="30px" style="padding-right:10px;" src="/stylex-logo-small-dark.svg" />
+
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+
+<img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="/hardhaticon.png" />
 
 <img align="left" alt="Truffle" width="30px" style="padding-right:10px;" src="/truffle-logomark.svg" />
 
 <img align="left" alt="Ganache" width="30px" style="padding-right:10px;" src="/ganache-logomark.svg" />
 
 <img align="left" alt="Drizzle" width="30px" style="padding-right:10px;" src="/drizzle-logomark.svg" />
-
-<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-
-<img align="left" alt="StyleX" width="30px" style="padding-right:10px;" src="/stylex-logo-small-dark.svg" />
-
-
 
 <br/>
 <br>
