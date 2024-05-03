@@ -55,6 +55,6 @@ Tech Consultant specializing in Emerging Technologies. Passionate about bridging
 <br>
 <br/>
 
-### :bar_chart: Stats
+#### :bar_chart: Stats
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3xwo&show_icons=true&theme=aura)
